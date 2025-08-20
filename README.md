@@ -4,7 +4,6 @@ An interactive data analysis dashboard for the Indian Premier League (IPL) from 
 
 **[➡️ View the Live Demo Here](https://ipl-analytics-dashboard-udnap.streamlit.app/)**
 
-![IPL Dashboard Screenshot](https://i.imgur.com/8a5b68H.png)
 
 ---
 
